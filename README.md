@@ -9,15 +9,15 @@
 
 ```json
 {
-  "name": "Rutracker | Category Name",
+  "name": "21",
   "downloads": [
     {
-      "title": "Game Name",
+      "title": "Indiana Jones And The Great Circle",
       "uris": [
         "Magnet link"
       ],
-      "uploadDate": "2024-04-06T23:00:00.000Z",
-      "fileSize": "12.9 GB"
+      "uploadDate": "2025-03-06T23:00:00.000Z",
+      "fileSize": "60 GB"
     }
   ]
 }
