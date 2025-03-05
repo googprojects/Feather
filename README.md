@@ -7,6 +7,7 @@
 
 # Example JSON Structure
 
+```json
 {
   "name": "Rutracker | Category Name",
   "downloads": [
@@ -20,3 +21,4 @@
     }
   ]
 }
+```
