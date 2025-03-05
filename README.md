@@ -1,11 +1,28 @@
 # Feather
 > Feather is a simple cmd launcher to install games, apps.
+> Works on Linux and Windows
 
 
+# Links
 
+## Windows
 
+* https://hydralinks.cloud/sources/dodi.json
+* https://hydralinks.cloud/sources/xatab.json
+* https://hydralinks.cloud/sources/tinyrepacks.json
+* https://hydralinks.cloud/sources/onlinefix.json
+* https://hydralinks.cloud/sources/kaoskrew.json
+* https://hydralinks.cloud/sources/gog.json
+* https://hydralinks.cloud/sources/fitgirl.json
+* https://hydralinks.cloud/sources/empress.json
+* https://hydralinks.cloud/sources/steamrip.json
+* https://hydralinks.cloud/sources/atop-games.json
 
-# Example JSON Structure
+## Linux
+
+* https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/Categories/1992.json
+
+# For Developers
 
 ```json
 {
