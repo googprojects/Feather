@@ -5,6 +5,9 @@
 
 # Links
 
+### Usage
+Install feather, and in "urls.txt" put all the links you need.
+
 ## Windows
 
 * https://hydralinks.cloud/sources/dodi.json
