@@ -1,5 +1,5 @@
 # Feather
-> Feather is a simple cmd launcher to install games, apps.
+> Feather is a simple launcher to install games, apps.
 > 
 > Works on Linux and Windows
 > 
