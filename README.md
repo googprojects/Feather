@@ -5,6 +5,10 @@
 > 
 > !!!Might have bugs!!!
 
+# Feather+
+> Feather+ has a very good, simple menu
+>
+> It uses steamgrid api to get game covers
 
 # Links
 
