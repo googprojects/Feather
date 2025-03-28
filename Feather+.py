@@ -361,7 +361,7 @@ class GameDownloaderApp(QMainWindow):
         self.image_cache = {}
         
         # SteamGridDB API key
-        self.steamgrid_api_key = "07182b10ca520dedcb0296d77ecc6e98"
+        self.steamgrid_api_key = "STEAMGRIDDAPI"
         
         # Load data after a short delay to show loading animation
         QTimer.singleShot(1500, self.load_data)
